@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.env
+*.sqlite3
+
+# Django
+/staticfiles/
+/media/
+
+# IDE
+.vscode/
+.idea/
+
+# Mac
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Coverage
+htmlcov/
+.tox/
+.coverage
+.cache
+.pytest_cache/
+
+# Migrations (optional to commit; we'll include initial)
+# */migrations/__pycache__/
