@@ -1,6 +1,6 @@
-# DRF + SimpleJWT Blog API (Starter)
+# JWT Authentication in Django REST Framework with SimpleJWT
 
-A **Django REST Framework** project demonstrating **JWT Authentication** with **SimpleJWT**, including refresh rotation, blacklisting (logout), owner/admin permissions, and a small Blog app.
+A **Django REST Framework** project demonstrating **JWT Authentication** with **SimpleJWT**, including refresh rotation, blacklisting (logout), owner/admin permissions, and a small Blog app. For a detailed tutorial, you may [visit](https://cloudfullstack.dev/jwt-authentication-in-django-rest-framework/).
 
 ## Features
 - JWT auth with access + refresh tokens
